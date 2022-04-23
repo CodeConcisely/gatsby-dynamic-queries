@@ -1,6 +1,6 @@
 # How to Create Dynamic Queries in Gatsby
 
-This is a demo project for [_How to Create Dynamic Queries in Gatsby_](https://www.codeconcisely.com/blog/how-to-create-dynamic-queries-in-gatsby/) article.
+This is a demo project for [_How to Create Dynamic Queries in Gatsby_](https://www.codeconcisely.com/posts/how-to-create-dynamic-queries-in-gatsby/) article.
 Learn how to create changeable queries in Gatsby.
 
 ## Description
